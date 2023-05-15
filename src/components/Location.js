@@ -24,5 +24,4 @@ const Location = () => {
     </div>
     );
 };
-
 export default Location;

@@ -73,5 +73,4 @@ const ItemSelected = (props) => {
         </div>
     );
 };
-
 export default ItemSelected;

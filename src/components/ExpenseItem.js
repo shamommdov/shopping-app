@@ -27,5 +27,4 @@ const ExpenseItem = (props) => {
         </tr>
     );
 };
-
 export default ExpenseItem;

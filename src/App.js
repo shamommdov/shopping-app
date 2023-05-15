@@ -34,15 +34,14 @@ function App() {
                 </div>
 
                 <h3 className='mt-3'>Add Items</h3>  
+                {/* Add ItemSelected component here under */} 
                 <div className='row mt-3'>
                     <div className='col-sm'>
                         <ItemSelected/>
                     </div>
                 </div>
-
             </div>
         </AppProvider>
   );
 }
-
 export default App;
